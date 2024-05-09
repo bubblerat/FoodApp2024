@@ -1,11 +1,11 @@
 const firebase = require("firebase");
 const firebaseConfig = {
-  apiKey: "AIzaSyBZVjcT1QFHddsdfsdyc89b4nbjcWCiXNaN5VuD_0",
-  authDomain: "foodapp-1a522.firebaseapp.com",
-  projectId: "foodapp-1a522",
-  storageBucket: "foodapp-1a522.appspot.com",
-  messagingSenderId: "1037711435770",
-  appId: "1:1037711435770:web:a3df1b8e349e91bc30e643",
+  apiKey: "AIzaSyCINZ0efQUYv_588y_uwaxOgMpZFsFOO5Q",
+  authDomain: "food-app-fa0fd.firebaseapp.com",
+  projectId: "food-app-fa0fd",
+  storageBucket: "food-app-fa0fd.appspot.com",
+  messagingSenderId: "1049057631117",
+  appId: "1:1049057631117:web:1d881dd376aed5eee23bc4"
 };
 firebase.initializeApp(firebaseConfig);
 const db = firebase.firestore();
